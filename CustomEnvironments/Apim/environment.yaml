@@ -1,6 +1,6 @@
 name: APIM
 summary: This is an APIM deployment using Bicep.
-description: Deploys an APIM using the Consumption Sku.
+description: Deploys an APIM using the Consumption Sku. FBO style
 templatePath: main.bicep
 parameters:
 - id: name
